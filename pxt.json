@@ -9,5 +9,9 @@
         "README.md",
         "main.ts"
     ],
+    "testFiles": [],
+    "supportedTargets": [
+        "arcade"
+    ],
     "preferredEditor": "blocksprj"
 }
