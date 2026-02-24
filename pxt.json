@@ -1,0 +1,13 @@
+{
+    "name": "mot-makecode-tutorials",
+    "version": "1.0.0",
+    "description": "MOT - MakeCode Arcade Tutorials",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "preferredEditor": "blocksprj"
+}
